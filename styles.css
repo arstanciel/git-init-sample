@@ -119,3 +119,24 @@ p {
     color: #ffffff;
 }
 
+.benefit-info {
+    padding: 20px;
+    font-size:15px;
+}
+.benefit-info h4 {
+    font-size: 20px;
+    background-color: yellow;
+    max-width: 135px;
+    text-decoration: underline;
+    
+}
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.footer h2 {
+    font-size: 20px;
+}
